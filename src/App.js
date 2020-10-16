@@ -133,7 +133,7 @@ const article = { email:user.email,password:user.password };
   render(){
   return (
     <div className="App">
-      <header>Chat App</header>
+      <header>Login/SignUp For Job Portal</header>
         {user.user && <div>
          <Msg  messages={this.state.messages} user={user.user}/>
         

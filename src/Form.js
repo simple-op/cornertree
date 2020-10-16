@@ -5,7 +5,7 @@ const login=()=>{
 function Form(props){
 
  return(
-     <div style={{marginTop:"40%"}}>
+     <div>
          
         <label>
           
